@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-#Coded by L330n123
+#Coded by Laxero
 #########################################
 #         Just a little change          #
-#                           -- L330n123 #
+#                           -- Laxero #
 #########################################
 import requests
 import socket
@@ -34,7 +34,7 @@ Version 3.6 (2020/12/19)
 │          [+] Changed Output                 │
 │          [+] Added Url Parser               │
 ├─────────────────────────────────────────────┤
-│ Link: https://github.com/Leeon123/CC-attack │
+│ Link: https://github.com/Laxero/ccdos       │
 └─────────────────────────────────────────────┘''')
 
 acceptall = [
@@ -723,4 +723,4 @@ def main():
 	
 
 if __name__ == "__main__":
-	main()#Coded by Leeon123
+	main()#Coded by Laxero
